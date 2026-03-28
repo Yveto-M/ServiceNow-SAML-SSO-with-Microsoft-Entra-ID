@@ -26,11 +26,14 @@ All configuration and troubleshooting steps are illustrated with the screenshots
   - `Screenshot-2026-03-27-183505.jpg` – Plugin installation progress.
 - <img width="600" height="331" alt="Screenshot 2026-03-27 183530" src="https://github.com/user-attachments/assets/5153dfcb-9fa4-44c7-8e76-1cbde1f278d9" />
 
+
 - Configured **Multiple Provider SSO Properties** to:
   - Allow multiple IdPs.
   - Auto‑import users from the IdP into `sys_user`.
   - Enable debug logging.  
   - `Screenshot-2026-03-27-185630-4.jpg` – SSO properties.
+  - <img width="655" height="372" alt="Screenshot 2026-03-27 185630" src="https://github.com/user-attachments/assets/e5ebfcb7-c140-446d-8e73-b7ea09240f0d" />
+
 
 - Created a new **Identity Provider** and imported Microsoft Entra metadata via URL.  
   - `Screenshot-2026-03-27-185323-3.jpg` – Import Identity Provider Metadata dialog.
