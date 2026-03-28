@@ -50,7 +50,9 @@ All configuration and troubleshooting steps are illustrated with the screenshots
   - Reply URL (Assertion Consumer Service URL).
   - Sign‑on URL – ServiceNow login URL.  
   - `Screenshot-2026-03-28-160449-10.jpg` – Basic SAML configuration.
-<img width="615" height="293" alt="Screenshot 2026-03-28 160449" src="https://github.com/user-attachments/assets/d446f4a7-9054-4680-80a1-5e89d7645010" />
+
+<img width="621" height="349" alt="Screenshot 2026-03-28 145557" src="https://github.com/user-attachments/assets/2690ff8a-91b2-46bf-a258-19e3b8a54d61" />
+
 
 - Validated the SSO flow:
   - User authenticates in Entra ID.
