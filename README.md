@@ -32,12 +32,13 @@ All configuration and troubleshooting steps are illustrated with the screenshots
   - Auto‑import users from the IdP into `sys_user`.
   - Enable debug logging.  
   - `Screenshot-2026-03-27-185630-4.jpg` – SSO properties.
-  - <img width="655" height="372" alt="Screenshot 2026-03-27 185630" src="https://github.com/user-attachments/assets/e5ebfcb7-c140-446d-8e73-b7ea09240f0d" />
-
+  
+<img width="860" height="421" alt="Screenshot 2026-03-27 185323" src="https://github.com/user-attachments/assets/d1bec4c0-3e86-424b-ad90-150a09d22a42" />
 
 - Created a new **Identity Provider** and imported Microsoft Entra metadata via URL.  
   - `Screenshot-2026-03-27-185323-3.jpg` – Import Identity Provider Metadata dialog.
-<img width="860" height="421" alt="Screenshot 2026-03-27 185323" src="https://github.com/user-attachments/assets/d1bec4c0-3e86-424b-ad90-150a09d22a42" />
+
+ <img width="655" height="372" alt="Screenshot 2026-03-27 185630" src="https://github.com/user-attachments/assets/e5ebfcb7-c140-446d-8e73-b7ea09240f0d" />
 
 ---
 
