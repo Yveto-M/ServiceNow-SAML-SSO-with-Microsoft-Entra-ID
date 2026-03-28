@@ -111,7 +111,7 @@ To address the stuck activation state, a documented system property was used:
 
 ## Outcome
 
-- ServiceNow now trusts Microsoft Entra ID via SAML 2.0.
+- ServiceNow now trusts Microsoft Entra ID via SAML.
 - Users from the UVBANK Entra tenant authenticate in Entra and are redirected into the ServiceNow Zurich PDI.
 - The environment demonstrates:
   - SaaS onboarding to Entra ID.
