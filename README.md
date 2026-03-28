@@ -21,10 +21,10 @@ All configuration and troubleshooting steps are illustrated with the screenshots
 
 - Installed the **Integration – Multiple Provider Single Sign‑On** plugin in the Zurich PDI.  
   - `Screenshot-2026-03-27-183530-2.jpg` – Plugin installer.
-  - <img width="600" height="331" alt="Screenshot 2026-03-27 183530" src="https://github.com/user-attachments/assets/5153dfcb-9fa4-44c7-8e76-1cbde1f278d9" />
+  <img width="923" height="456" alt="Screenshot 2026-03-27 183505" src="https://github.com/user-attachments/assets/1a4ea26f-ddff-4b0e-af9e-9a5f9dfe9f22" />
 
   - `Screenshot-2026-03-27-183505.jpg` – Plugin installation progress.
-<img width="923" height="456" alt="Screenshot 2026-03-27 183505" src="https://github.com/user-attachments/assets/1a4ea26f-ddff-4b0e-af9e-9a5f9dfe9f22" />
+- <img width="600" height="331" alt="Screenshot 2026-03-27 183530" src="https://github.com/user-attachments/assets/5153dfcb-9fa4-44c7-8e76-1cbde1f278d9" />
 
 - Configured **Multiple Provider SSO Properties** to:
   - Allow multiple IdPs.
